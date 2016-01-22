@@ -8,5 +8,13 @@ Note:
 - I don't have anymore access to WARP hardware, so I cannot develop and test this software more. 
 
 
+HOW-TO:
 
+- This package assumes that your WARP hardware & WARPLab framework is already setup as described in  http://warpproject.org/trac/wiki/WARPLab/QuickStart 
+- You can run a simple SISO example using the "EXAMPLE_SISO_1x1.m" file. 
+- Similarly, a 2x2 MIMO example is in "EXAMPLE_MIMO_2x2.m" file.
+
+Enjoy! 
+
+E
 
